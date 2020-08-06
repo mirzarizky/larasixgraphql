@@ -16,12 +16,10 @@
         "nuwave/lighthouse": "^4.16"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^3.3",
         "barryvdh/laravel-ide-helper": "^2.7",
         "facade/ignition": "^1.4",
         "fzaninotto/faker": "^1.9.1",
         "haydenpierce/class-finder": "^0.4.2",
-        "laravel/ui": "1.0",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
         "phpunit/phpunit": "^8.0"
